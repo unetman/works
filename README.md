@@ -58,6 +58,8 @@
 
 ### 研发
 
+[1-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc1.md)  
+
 ### 英语
 
 ### 投资

@@ -58,7 +58,8 @@
 
 ### 研发
 
-[1-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc1.md)  
+[2-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc2.md)  
+[1-比特币白皮书中译版v1](https://github.com/unetman/works/blob/master/rd/btc/btc1.md)  
 
 ### 英语
 

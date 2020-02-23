@@ -14,6 +14,12 @@
 
 ### 读书笔记
 
+[18-读《吕思勉：中国历史常识》](https://github.com/unetman/works/blob/master/reading_notes/rn6.md)  
+[17-读《张小龙4小时演讲全文：万物之中，希望至美》](https://github.com/unetman/works/blob/master/reading_notes/rn5.md)  
+[16-读《李笑来：这些年我看到的所谓区块链……》](https://github.com/unetman/works/blob/master/reading_notes/rn4.md)  
+[15-读刘慈欣短篇1](https://github.com/unetman/works/blob/master/reading_notes/rn3.md)  
+[14-读《阿道司·赫胥黎：美丽新世界》](https://github.com/unetman/works/blob/master/reading_notes/rn2.md)  
+[13-读《阿尔贝·加缪：局外人》](https://github.com/unetman/works/blob/master/reading_notes/rn1.md)  
 [12-读《乔治·奥威尔：动物庄园》](https://github.com/unetman/works/blob/master/reading_notes/164.md)  
 [11-听《王立铭：生命科学五十讲》](https://github.com/unetman/works/blob/master/reading_notes/150.md)  
 [10-读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  

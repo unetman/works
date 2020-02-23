@@ -26,6 +26,14 @@
 [读《瑞·达里欧：原则》](https://github.com/unetman/works/blob/master/reading_notes/54.md)  
 [读《文森特·鲁吉罗：超越感觉》](https://github.com/unetman/works/blob/master/reading_notes/40.md)  
 
+### X与Q的对话
+
+[X与Q的对话 - 3](https://github.com/unetman/works/blob/master/xq/xq3.md)  
+[X与Q的对话 - 2](https://github.com/unetman/works/blob/master/xq/xq2.md)  
+[X与Q的对话 - 1](https://github.com/unetman/works/blob/master/xq/xq1.md)  
+
+### 诗歌
+
 ### 健身
 
 ### 研发

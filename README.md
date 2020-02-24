@@ -4,6 +4,15 @@
 
 [读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  
 
+### 研发
+
+[2-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc2.md)  
+[1-比特币白皮书中译版v1](https://github.com/unetman/works/blob/master/rd/btc/btc1.md)  
+
+### 英语
+
+### 健身
+
 ### 读书笔记
 
 [18-读《吕思勉：中国历史常识》](https://github.com/unetman/works/blob/master/reading_notes/rn6.md)  
@@ -63,15 +72,6 @@
 [3-嫦娥](https://github.com/unetman/works/blob/master/poems/po3.md)  
 [2-段郎](https://github.com/unetman/works/blob/master/poems/po2.md)  
 [1-那一天](https://github.com/unetman/works/blob/master/poems/po1.md)  
-
-### 健身
-
-### 研发
-
-[2-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc2.md)  
-[1-比特币白皮书中译版v1](https://github.com/unetman/works/blob/master/rd/btc/btc1.md)  
-
-### 英语
 
 ### 投资
 

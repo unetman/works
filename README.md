@@ -1,8 +1,8 @@
-# 刘心泉的文字(45)
+# 刘心泉的文字
 
 ### 随笔
 
-[8-国庆笔记-2019](https://github.com/unetman/works/blob/master/essays/es1.md)  
+[8-国庆笔记-2019](https://github.com/unetman/works/blob/master/essays/nd/nd2019.md)  
 [7-当我们谈编程时，我们在谈什么](https://github.com/unetman/works/blob/master/essays/134.md)  
 [6-人生无处不相逢：再见张宏堡](https://github.com/unetman/works/blob/master/essays/125.md)  
 [5-伟大的垫底者](https://github.com/unetman/works/blob/master/essays/99.md)  
@@ -35,10 +35,10 @@
 
 ### X与Q的对话
 
-[X与Q的对话 - 4](https://github.com/unetman/works/blob/master/xq/xq4.md)  
-[X与Q的对话 - 3](https://github.com/unetman/works/blob/master/xq/xq3.md)  
-[X与Q的对话 - 2](https://github.com/unetman/works/blob/master/xq/xq2.md)  
-[X与Q的对话 - 1](https://github.com/unetman/works/blob/master/xq/xq1.md)  
+[X与Q的对话 - 4](https://github.com/unetman/works/blob/master/essays/xq/xq4.md)  
+[X与Q的对话 - 3](https://github.com/unetman/works/blob/master/essays/xq/xq3.md)  
+[X与Q的对话 - 2](https://github.com/unetman/works/blob/master/essays/xq/xq2.md)  
+[X与Q的对话 - 1](https://github.com/unetman/works/blob/master/essays/xq/xq1.md)  
 
 ### 诗歌
 

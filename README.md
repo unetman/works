@@ -1,16 +1,8 @@
 # 刘心泉的文字
 
-### 随笔
+### 置顶🔝
 
-[8-国庆笔记-2019](https://github.com/unetman/works/blob/master/essays/nd/nd2019.md)  
-[7-当我们谈编程时，我们在谈什么](https://github.com/unetman/works/blob/master/essays/134.md)  
-[6-人生无处不相逢：再见张宏堡](https://github.com/unetman/works/blob/master/essays/125.md)  
-[5-伟大的垫底者](https://github.com/unetman/works/blob/master/essays/99.md)  
-[4-上学，读书和学习的区别](https://github.com/unetman/works/blob/master/essays/90.md)  
-[3-主动选择自己的情绪](https://github.com/unetman/works/blob/master/essays/86.md)  
-[2-手机截屏分析](https://github.com/unetman/works/blob/master/essays/81.md)  
-[1-D&G事件以及我们如何应对](https://github.com/unetman/works/blob/master/essays/33.md)  
-[0-刘心泉说发刊词](https://github.com/unetman/works/blob/master/files/11.md)
+[读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  
 
 ### 读书笔记
 
@@ -33,12 +25,29 @@
 [2-读《瑞·达里欧：原则》](https://github.com/unetman/works/blob/master/reading_notes/54.md)  
 [1-读《文森特·鲁吉罗：超越感觉》](https://github.com/unetman/works/blob/master/reading_notes/40.md)  
 
+### 随笔
+
+[7-当我们谈编程时，我们在谈什么](https://github.com/unetman/works/blob/master/essays/134.md)  
+[6-人生无处不相逢：再见张宏堡](https://github.com/unetman/works/blob/master/essays/125.md)  
+[5-伟大的垫底者](https://github.com/unetman/works/blob/master/essays/99.md)  
+[4-上学，读书和学习的区别](https://github.com/unetman/works/blob/master/essays/90.md)  
+[3-主动选择自己的情绪](https://github.com/unetman/works/blob/master/essays/86.md)  
+[2-手机截屏分析](https://github.com/unetman/works/blob/master/essays/81.md)  
+[1-D&G事件以及我们如何应对](https://github.com/unetman/works/blob/master/essays/33.md)  
+[0-刘心泉说发刊词](https://github.com/unetman/works/blob/master/files/11.md)
+
 ### X与Q的对话
 
 [X与Q的对话 - 4](https://github.com/unetman/works/blob/master/essays/xq/xq4.md)  
 [X与Q的对话 - 3](https://github.com/unetman/works/blob/master/essays/xq/xq3.md)  
 [X与Q的对话 - 2](https://github.com/unetman/works/blob/master/essays/xq/xq2.md)  
 [X与Q的对话 - 1](https://github.com/unetman/works/blob/master/essays/xq/xq1.md)  
+
+### 国庆笔记
+
+[1-国庆笔记-2019](https://github.com/unetman/works/blob/master/essays/nd/nd2019.md)  
+
+### 致自己
 
 ### 诗歌
 

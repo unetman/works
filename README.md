@@ -1,6 +1,6 @@
 # 刘心泉的文字
 
-### 置顶🔝
+### 🔝置顶🔝
 
 [读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  
 

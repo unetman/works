@@ -84,7 +84,7 @@ Command + 1|Project|★
 Command + 2|Favorites
 Command + 3|Find
 Command + 6|TODO
-Command + 7|Structure|★
+Command + 7|Structure|★★
 Command + 8|Services
 Command + 9|Version Control
 Option + F12|Terminal|★

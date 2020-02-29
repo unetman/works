@@ -80,7 +80,7 @@ Command + Option + X|Find by XPath...
 ### Part 4：View
 Shortcut|Action|Star
 ---|---|---
-Command + 1|Project|★
+Command + 1|Project|★★
 Command + 2|Favorites
 Command + 3|Find
 Command + 6|TODO

@@ -89,7 +89,7 @@ Command + 8|Services
 Command + 9|Version Control
 Option + F12|Terminal
 Command + Control + F|Enter Full Screen
-Option + Shift + \|Details in Tree View
+Option + Shift + \\|Details in Tree View
 Command + Shift + I|Quick Definition
 Control + J|Quick Documentation
 Command + P|Parameter Info

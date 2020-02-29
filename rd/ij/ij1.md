@@ -25,7 +25,7 @@ Home|Fn + ←|开始位置
 Shortcut|Action|Star
 ---|---|---
 Command + ;|Project Structure...
-Command + S|Save All|⭐
+Command + S|Save All|★
 Command + Option + Y|Reload All from Disk
 Control + Shift + N|New Scratch File
 

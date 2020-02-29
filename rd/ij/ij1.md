@@ -30,23 +30,23 @@ Command + Option + Y|Reload All from Disk
 Control + Shift + N|New Scratch File
 
 ### Part 2：Edit
-Shortcut|Action
----|---
-Command + Z|Undo
-Command + Shift + Z|Redo
-Command + X|Cut
-Command + C|Copy
+Shortcut|Action|Star
+---|---|---
+Command + Z|Undo|★
+Command + Shift + Z|Redo|★
+Command + X|Cut|★
+Command + C|Copy|★
 Command + Option + Shift + C|Copy Reference
-Command + V|Paste
-Command + Shift + V|Paste from History...
-Command + Option + Shift + V|Paste without Formatting
-Command + Shift+ 8|Column Selection Mode
-Command + A|Select All
+Command + V|Paste|★
+Command + Shift + V|Paste from History...|★★
+Command + Option + Shift + V|Paste without Formatting|★
+Command + Shift+ 8|Column Selection Mode|★★★
+Command + A|Select All|★
 Command + W|Extend Selection
 Command + Shift + W|Shrink Selection
 Command + Shift + Enter|Complete Current Statement
-Control + Shift + J|Join Lines
-Command + D|Duplicate Line
+Control + Shift + J|Join Lines|★★
+Command + D|Duplicate Line|★
 Tab|Indent Selection
 Shift + Tab|Unindent Line or Selection
 Command + Shift + U|Toggle Case
@@ -55,10 +55,10 @@ Shift + Tab|Previous Parameter
 Command + Control + Space|Emoji & Symbols
 
 ### Part 3：Find & Replace
-Shortcut|Action
----|---
-Command + F|Find...
-Command + R|Replace...
+Shortcut|Action|Star
+---|---|---
+Command + F|Find...|★
+Command + R|Replace...|★
 F3|Find Next / Move to Next Occurrence
 Shift + F3|Find Previous / Move to Previous Occurrence
 Command + F3|Find Word at Caret
@@ -68,27 +68,27 @@ Control + Shift + G|Unselect Occurrence
 Option + Control + E|Search in Selection Only
 Option + Control + Down|Go to next highlighted element usage
 Option + Control + Up|Go to previous highlighted element usage
-Control + Shift + F|Find in Path...
-Control + Shift + R|Replace in Path...
-Option + F7|Find Usages
+Control + Shift + F|Find in Path...|★
+Control + Shift + R|Replace in Path...|★
+Option + F7|Find Usages|★
 Command + Option + Shift|Find Usages Settings...
-Command + Option + F7|Show Usages
-Command + F7|Find Usages in File
-Command + Shift + F7|Highlight Usages in File
+Command + Option + F7|Show Usages|★
+Command + F7|Find Usages in File|★★
+Command + Shift + F7|Highlight Usages in File|★
 Command + Option + X|Find by XPath...
 
 ### Part 4：View
-Shortcut|Action
----|---
-Command + 1|Project
+Shortcut|Action|Star
+---|---|---
+Command + 1|Project|★
 Command + 2|Favorites
 Command + 3|Find
 Command + 6|TODO
-Command + 7|Structure
+Command + 7|Structure|★
 Command + 8|Services
 Command + 9|Version Control
-Option + F12|Terminal
-Command + Control + F|Enter Full Screen
+Option + F12|Terminal|★
+Command + Control + F|Enter Full Screen|★
 Option + Shift + \\ |Details in Tree View
 Command + Shift + I|Quick Definition
 Control + J|Quick Documentation
@@ -103,10 +103,10 @@ Command + D|Compare With...
 Control + `|Quick Switch Scheme...
 
 ### Part 5：Navigate
-Shortcut|Action
----|---
-Command + N|Class...
-Command + Shift + N|File...
+Shortcut|Action|Star
+---|---|---
+Command + N|Class...|★
+Command + Shift + N|File...|★
 Command + Option + Shift + N|Symbol...
 Command + Option + .|Custom Folding...
 Command + G|Line/Column...
@@ -119,13 +119,13 @@ Shift + F11|Show Bookmarks
 Option + F1|Select In...
 Command + B|Declaration or Usages
 Command + Option + B|Implementation(s)
-Control + Shift + B|Type Declaration
+Control + Shift + B|Type Declaration|★
 Command + U|Super Method
 Command + Shift + T|Test
-Command + F12|File Structure
-Control + H|Type Hierarchy
-Command + Shift + H|Method Hierarchy
-Option + Control + H|Call Hierarchy
+Command + F12|File Structure|★
+Control + H|Type Hierarchy|★
+Command + Shift + H|Method Hierarchy|★
+Option + Control + H|Call Hierarchy|★
 F2|Next Highlighted Error
 Shift + F2|Previous Highlighted Error
 Option + Control + Shift + Down|Next Change
@@ -133,13 +133,13 @@ Option + Control + Shift + Up|Previous Change
 Control + Down|Next Method
 Control + Up|Previous Method
 
-### Part 6：Navigate
-Shortcut|Action
----|---
-Command + O|Override Methods...
-Command + I|Implement Methods...
-Control + N|Generate...
-Command + Option + T|Surround With...
+### Part 6：Code
+Shortcut|Action|Star
+---|---|---
+Command + O|Override Methods...|★
+Command + I|Implement Methods...|★
+Control + N|Generate...|★
+Command + Option + T|Surround With...|★
 Command + Shift + Fn + Del|Unwrap/Remove...
 Control + Space|Completion->Basic
 Control + Shift + Space|Completion->SmartType
@@ -157,65 +157,65 @@ Command + .|Fold Selection / Remove region
 Command + Shift + .|Fold Code Block
 Command + J|Insert Live Template...
 Command + Option +J|Surround with Live Template...
-Command + // |Comment with Line Comment
-Control + ?|Comment with Block Comment
+Command + // |Comment with Line Comment|★
+Control + ?|Comment with Block Comment|★
 Command + Option + L|Reformat Code
-Command + Option + Shift + L|Show Reformat File Dialog
+Command + Option + Shift + L|Show Reformat File Dialog|★
 Command + Option + I|Auto-Indent Lines
-Command + Option + O|Optimize Imports
-Command + Shift + Down|Move Statement Down
-Command + Shift + Up|Move Statement Up
+Command + Option + O|Optimize Imports|★
+Command + Shift + Down|Move Statement Down|★
+Command + Shift + Up|Move Statement Up|★
 Command + Option + Shift + Left|Move Element Left
 Command + Option + Shift + Right|Move Element Right
-Option + Shift + Down|Move Line Down
-Option + Shift + Up|Move Line Up
+Option + Shift + Down|Move Line Down|★
+Option + Shift + Up|Move Line Up|★
 Command + Option + Shift + K|Convert Java File to Kotlin File
 
 ### Part 7：Refactor
-Shortcut|Action
----|---
-Command + Option + Shift + T|Refactor This...
-Shift + F6|Rename
+Shortcut|Action|Star
+---|---|---
+Command + Option + Shift + T|Refactor This...|★
+Shift + F6|Rename|★
 Command + F6|Change Signature...
 Option + F6|Edit Property Value...
 Command + Shift + F6|Type Migration...
 F6|Move Instance Method...
 F5|Copy File...
 Command + Fn + Delete|Safe Delete...
-Command + Option + V|Extract Variable...
-Command + Option + C|Extract Constant...
-Command + Option + F|Extract Field...
-Command + Option + P|Extract Parameter...
+Command + Option + V|Extract Variable...|★
+Command + Option + C|Extract Constant...|★
+Command + Option + F|Extract Field...|★
+Command + Option + P|Extract Parameter...|★
 Command + Option + Shift + P|Extract Functional Parameter...
-Command + Option + M|Extract Method...
+Command + Option + M|Extract Method...|★
 Command + Option + N|Inline Field...
 
 ### Part 8：Build
-Shortcut|Action
----|---
-Command + F9|Build Project
-Command + Shift + F9|Recompile
+Shortcut|Action|Star
+---|---|---
+Command + F9|Build Project|★
+Command + Shift + F9|Recompile|★
 Command + Shift + F10|Run Ant Target
 
 ### Part 9：Run & Debug
-Shortcut|Action
----|---
-Shift + F10|Run
-Shift + F9|Debug
-Option + Shift + F10|Run...
-Option + Shift + F9|Debug...
+Shortcut|Action|Star
+---|---|---
+Shift + F10|Run|★
+Shift + F9|Debug|★
+Option + Shift + F10|Run...|★
+Option + Shift + F9|Debug...|★
 Option + Shift + F5|Attach to Process...
-Command + F2|Stop
+Command + F2|Stop|★
 Command + Shift + F2|Stop Background Processes...
 Command + Option + F6|Show Code Coverage Data
-F8|Setp Over
-Option + Shift + F8|Force Step Over
-F7|Step Into
-Option + Shift + F7|Force Step Into
-Shift + F7|Smart Step Into
-Shift + F8|Step Out
-Option + F9|Run to Cursor
-Command + Option + F9| Force Run to Cursor
+F8|Setp Over|★
+Option + Shift + F8|Force Step Over|★
+F7|Step Into|★
+Option + Shift + F7|Force Step Into|★
+Shift + F7|Smart Step Into|★
+Shift + F8|Step Out|★
+Option + F9|Run to Cursor|★
+Command + Option + F9| Force Run to Cursor|★
 F9|Resume Program
 Option + F8|Evaluate Expression...
 Command + Option + F8|Quick Evaluate Expression

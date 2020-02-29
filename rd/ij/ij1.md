@@ -22,10 +22,10 @@ End|Fn + →|结束位置
 Home|Fn + ←|开始位置
 
 ### Part 1：File
-Shortcut|Action
----|---
+Shortcut|Action|Star
+---|---|---
 Command + ;|Project Structure...
-Command + S|Save All
+Command + S|Save All|(*)
 Command + Option + Y|Reload All from Disk
 Control + Shift + N|New Scratch File
 

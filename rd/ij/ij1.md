@@ -25,7 +25,7 @@ Home|Fn + ←|开始位置
 Shortcut|Action|Star
 ---|---|---
 Command + ;|Project Structure...
-Command + S|Save All|&hearts;
+Command + S|Save All|⭐
 Command + Option + Y|Reload All from Disk
 Control + Shift + N|New Scratch File
 
@@ -226,10 +226,3 @@ Command + Shift + F8|View Breakpoints...
 
 Office Document: 
 [IntelliJIDEA_ReferenceCard.pdf](https://github.com/unetman/works/blob/master/resources/IntelliJIDEA_ReferenceCard.pdf)
-
-```sequence
-颜回->孔子: 吃饭了没？
-note right of 孔子: 孔子思考\n如何回答
-孔子-->颜回: 吃过了。你咧？
-颜回->>孔子: 吃过了，吃过了！
-​```

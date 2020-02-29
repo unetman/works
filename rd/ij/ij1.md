@@ -133,6 +133,99 @@ Option + Control + Shift + Up|Previous Change
 Control + Down|Next Method
 Control + Up|Previous Method
 
+### Part 6：Navigate
+Shortcut|Action
+---|---
+Command + O|Override Methods...
+Command + I|Implement Methods...
+Control + N|Generate...
+Command + Option + T|Surround With...
+Command + Shift + Fn + Del|Unwrap/Remove...
+Control + Space|Completion->Basic
+Control + Shift + Space|Completion->SmartType
+Option + /|Cyclic Expand Word
+Option + ?|Cyclic Expand Word (Backward)
+Command + +|Folding->Expand
+Command + -|Folding->Collapse
+Command + Optin + +|Expand Recursively
+Command + Optin + -|Collapse Recursively
+Command + Shift + +|Expand All
+Command + Shift + -|Collapse All
+Command + *|Expand to Level
+Command + Option + *|Expand All to Level
+Command + .|Fold Selection / Remove region
+Command + Shift + .|Fold Code Block
+Command + J|Insert Live Template...
+Command + Option +J|Surround with Live Template...
+Command + // |Comment with Line Comment
+Control + ?|Comment with Block Comment
+Command + Option + L|Reformat Code
+Command + Option + Shift + L|Show Reformat File Dialog
+Command + Option + I|Auto-Indent Lines
+Command + Option + O|Optimize Imports
+Command + Shift + Down|Move Statement Down
+Command + Shift + Up|Move Statement Up
+Command + Option + Shift + Left|Move Element Left
+Command + Option + Shift + Right|Move Element Right
+Option + Shift + Down|Move Line Down
+Option + Shift + Up|Move Line Up
+Command + Option + Shift + K|Convert Java File to Kotlin File
+
+### Part 7：Refactor
+Shortcut|Action
+---|---
+Command + Option + Shift + T|Refactor This...
+Shift + F6|Rename
+Command + F6|Change Signature...
+Option + F6|Edit Property Value...
+Command + Shift + F6|Type Migration...
+F6|Move Instance Method...
+F5|Copy File...
+Command + Fn + Delete|Safe Delete...
+Command + Option + V|Extract Variable...
+Command + Option + C|Extract Constant...
+Command + Option + F|Extract Field...
+Command + Option + P|Extract Parameter...
+Command + Option + Shift + P|Extract Functional Parameter...
+Command + Option + M|Extract Method...
+Command + Option + N|Inline Field...
+
+### Part 8：Build
+Shortcut|Action
+---|---
+Command + F9|Build Project
+Command + Shift + F9|Recompile
+Command + Shift + F10|Run Ant Target
+
+### Part 9：Run & Debug
+Shortcut|Action
+---|---
+Shift + F10|Run
+Shift + F9|Debug
+Option + Shift + F10|Run...
+Option + Shift + F9|Debug...
+Option + Shift + F5|Attach to Process...
+Command + F2|Stop
+Command + Shift + F2|Stop Background Processes...
+Command + Option + F6|Show Code Coverage Data
+F8|Setp Over
+Option + Shift + F8|Force Step Over
+F7|Step Into
+Option + Shift + F7|Force Step Into
+Shift + F7|Smart Step Into
+Shift + F8|Step Out
+Option + F9|Run to Cursor
+Command + Option + F9| Force Run to Cursor
+F9|Resume Program
+Option + F8|Evaluate Expression...
+Command + Option + F8|Quick Evaluate Expression
+Option + F10|Show Execution Point
+Command + F8|Toggle Line Breakpoint
+Command + Option + Shift + F8|Toggle Temporary Line Breakpoint
+Command + Shift + F8|View Breakpoints...
+
+
+
 
 Office Document: 
 [IntelliJIDEA_ReferenceCard.pdf](https://github.com/unetman/works/blob/master/resources/IntelliJIDEA_ReferenceCard.pdf)

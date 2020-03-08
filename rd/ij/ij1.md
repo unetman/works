@@ -70,7 +70,7 @@ Option + Control + Down|Go to next highlighted element usage
 Option + Control + Up|Go to previous highlighted element usage
 Control + Shift + F|Find in Path...|★
 Control + Shift + R|Replace in Path...|★
-Option + F7|Find Usages|★
+Option + F7|Find Usages|★★★
 Command + Option + Shift|Find Usages Settings...
 Command + Option + F7|Show Usages|★
 Command + F7|Find Usages in File|★★
@@ -96,7 +96,7 @@ Command + P|Parameter Info
 Control + Shift + P|Type Info
 Control + Shift + Q|Context Info
 F4|Jump to Source
-Command + E|Recent Files
+Command + E|Recent Files|★★★
 Command + Shift + E|Recent Locations
 Option + Shift + C|Recent Changes
 Command + D|Compare With...
@@ -117,8 +117,8 @@ F11|Toggle Bookmark
 Command + F11|Toggle Bookmark with Mnemonic
 Shift + F11|Show Bookmarks
 Option + F1|Select In...
-Command + B|Declaration or Usages
-Command + Option + B|Implementation(s)
+Command + B|Declaration or Usages|★★★
+Command + Option + B|Implementation(s)|★★
 Control + Shift + B|Type Declaration|★
 Command + U|Super Method
 Command + Shift + T|Test
@@ -136,6 +136,7 @@ Control + Up|Previous Method
 ### Part 6：Code
 Shortcut|Action|Star
 ---|---|---
+Option + Enter|Show Context Actions|★★★
 Command + O|Override Methods...|★
 Command + I|Implement Methods...|★
 Control + N|Generate...|★
@@ -174,7 +175,7 @@ Command + Option + Shift + K|Convert Java File to Kotlin File
 ### Part 7：Refactor
 Shortcut|Action|Star
 ---|---|---
-Command + Option + Shift + T|Refactor This...|★
+Command + Option + Shift + T|Refactor This...|★★★
 Shift + F6|Rename|★
 Command + F6|Change Signature...
 Option + F6|Edit Property Value...

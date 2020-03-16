@@ -48,6 +48,9 @@
 
 ### X与Q的对话
 
+[X与Q的对话 - 13](https://github.com/unetman/works/blob/master/essays/xq/xq13.md)  
+[X与Q的对话 - 12](https://github.com/unetman/works/blob/master/essays/xq/xq12.md)  
+[X与Q的对话 - 11](https://github.com/unetman/works/blob/master/essays/xq/xq11.md)  
 [X与Q的对话 - 10](https://github.com/unetman/works/blob/master/essays/xq/xq10.md)  
 [X与Q的对话 - 9](https://github.com/unetman/works/blob/master/essays/xq/xq9.md)  
 [X与Q的对话 - 8](https://github.com/unetman/works/blob/master/essays/xq/xq8.md)  

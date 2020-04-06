@@ -16,6 +16,7 @@
 
 ### 读书笔记
 
+[19-读《阿德勒：自卑与超越》](https://github.com/unetman/works/blob/master/reading_notes/rn7.md)  
 [18-读《吕思勉：中国历史常识》](https://github.com/unetman/works/blob/master/reading_notes/rn6.md)  
 [17-读《张小龙4小时演讲全文：万物之中，希望至美》](https://github.com/unetman/works/blob/master/reading_notes/rn5.md)  
 [16-读《李笑来：这些年我看到的所谓区块链……》](https://github.com/unetman/works/blob/master/reading_notes/rn4.md)  
@@ -48,6 +49,7 @@
 
 ### X与Q的对话
 
+[X与Q的对话 - 14](https://github.com/unetman/works/blob/master/essays/xq/xq14.md)  
 [X与Q的对话 - 13](https://github.com/unetman/works/blob/master/essays/xq/xq13.md)  
 [X与Q的对话 - 12](https://github.com/unetman/works/blob/master/essays/xq/xq12.md)  
 [X与Q的对话 - 11](https://github.com/unetman/works/blob/master/essays/xq/xq11.md)  
@@ -70,6 +72,7 @@
 
 ### 诗歌
 
+[13-偶得](https://github.com/unetman/works/blob/master/poems/po13.md)  
 [12-首阳蕨](https://github.com/unetman/works/blob/master/poems/po12.md)  
 [11-苹果手机](https://github.com/unetman/works/blob/master/poems/po11.md)  
 [10-武汉2020](https://github.com/unetman/works/blob/master/poems/po10.md)  

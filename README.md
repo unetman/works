@@ -1,11 +1,9 @@
 # 刘心泉的文字
 
 ### 🔝置顶🔝
-
 [读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  
 
 ### 研发
-
 [3-IntelliJ on Mac Shortcuts](https://github.com/unetman/works/blob/master/rd/ij/ij1.md)  
 [2-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc2.md)  
 [1-比特币白皮书中译版v1](https://github.com/unetman/works/blob/master/rd/btc/btc1.md)  
@@ -15,7 +13,7 @@
 ### 健身
 
 ### 读书笔记
-
+[20-读《戴尔·卡耐基：人性的弱点》](https://github.com/unetman/works/blob/master/reading_notes/rn8.md)  
 [19-读《阿德勒：自卑与超越》](https://github.com/unetman/works/blob/master/reading_notes/rn7.md)  
 [18-读《吕思勉：中国历史常识》](https://github.com/unetman/works/blob/master/reading_notes/rn6.md)  
 [17-读《张小龙4小时演讲全文：万物之中，希望至美》](https://github.com/unetman/works/blob/master/reading_notes/rn5.md)  
@@ -37,7 +35,6 @@
 [1-读《文森特·鲁吉罗：超越感觉》](https://github.com/unetman/works/blob/master/reading_notes/40.md)  
 
 ### 随笔
-
 [7-当我们谈编程时，我们在谈什么](https://github.com/unetman/works/blob/master/essays/134.md)  
 [6-人生无处不相逢：再见张宏堡](https://github.com/unetman/works/blob/master/essays/125.md)  
 [5-伟大的垫底者](https://github.com/unetman/works/blob/master/essays/99.md)  
@@ -48,7 +45,6 @@
 [0-刘心泉说发刊词](https://github.com/unetman/works/blob/master/files/11.md)
 
 ### X与Q的对话
-
 [X与Q的对话 - 14](https://github.com/unetman/works/blob/master/essays/xq/xq14.md)  
 [X与Q的对话 - 13](https://github.com/unetman/works/blob/master/essays/xq/xq13.md)  
 [X与Q的对话 - 12](https://github.com/unetman/works/blob/master/essays/xq/xq12.md)  
@@ -65,14 +61,15 @@
 [X与Q的对话 - 1](https://github.com/unetman/works/blob/master/essays/xq/xq1.md)  
 
 ### 国庆笔记
-
 [1-国庆笔记-2019](https://github.com/unetman/works/blob/master/essays/nd/nd2019.md)  
 
 ### 致自己
 
 ### 诗歌
-
-[13-偶得](https://github.com/unetman/works/blob/master/poems/po13.md)  
+[16-斗室](https://github.com/unetman/works/blob/master/poems/po16.md)  
+[15-庚子年春出京偶得](https://github.com/unetman/works/blob/master/poems/po15.md)  
+[14-春](https://github.com/unetman/works/blob/master/poems/po14.md)  
+[13-随风](https://github.com/unetman/works/blob/master/poems/po13.md)  
 [12-首阳蕨](https://github.com/unetman/works/blob/master/poems/po12.md)  
 [11-苹果手机](https://github.com/unetman/works/blob/master/poems/po11.md)  
 [10-武汉2020](https://github.com/unetman/works/blob/master/poems/po10.md)  

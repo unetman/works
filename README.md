@@ -1,7 +1,7 @@
 # 刘心泉的文字
 
 ### 🔝置顶🔝
-[自我介绍](https://github.com/unetman/works/blob/master/self_intro.md)  
+[刘心泉的自我介绍](https://github.com/unetman/works/blob/master/self_intro.md)  
 [读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  
 
 ### 研发

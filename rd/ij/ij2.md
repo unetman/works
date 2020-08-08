@@ -1,1 +1,0 @@
-# IntelliJ on Mac Tutorial

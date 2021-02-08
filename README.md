@@ -36,6 +36,7 @@
 [1-读《文森特·鲁吉罗：超越感觉》](https://github.com/unetman/works/blob/master/reading_notes/40.md)  
 
 ### 随笔
+[10-时间密度，袖子和蓝图](https://github.com/unetman/works/blob/master/essays/20210208001.md)  
 [9-郁金香，君子兰，比特币](https://github.com/unetman/works/blob/master/essays/20210203001.md)  
 [8-不经意间的相遇](https://github.com/unetman/works/blob/master/essays/2021012801.md)  
 [7-当我们谈编程时，我们在谈什么](https://github.com/unetman/works/blob/master/essays/134.md)  

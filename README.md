@@ -13,7 +13,7 @@
 
 ### 健身
 
-### 读书笔记
+### 触绪录
 [20-读《戴尔·卡耐基：人性的弱点》](https://github.com/unetman/works/blob/master/reading_notes/rn8.md)  
 [19-读《阿德勒：自卑与超越》](https://github.com/unetman/works/blob/master/reading_notes/rn7.md)  
 [18-读《吕思勉：中国历史常识》](https://github.com/unetman/works/blob/master/reading_notes/rn6.md)  

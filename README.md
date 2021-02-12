@@ -4,6 +4,12 @@
 [刘心泉的自我介绍](https://github.com/unetman/works/blob/master/self_intro.md)  
 [读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  
 
+
+### 教程
+[2-如何加入新生大讲堂的“践行群情报站”](https://github.com/unetman/works/blob/master/courses/20210211001.md)  
+[1-如何在苹果手机上安装“新生大讲堂APP”](https://github.com/unetman/works/blob/master/courses/20210210001.md)  
+
+
 ### 研发
 [3-IntelliJ on Mac Shortcuts](https://github.com/unetman/works/blob/master/rd/ij/ij1.md)  
 [2-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc2.md)  

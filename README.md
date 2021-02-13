@@ -6,6 +6,7 @@
 
 
 ### 教程
+[3-如何在“新作”上发表文章](https://github.com/unetman/works/blob/master/courses/20210212001.md)  
 [2-如何加入新生大讲堂的“践行群情报站”](https://github.com/unetman/works/blob/master/courses/20210211001.md)  
 [1-如何在苹果手机上安装“新生大讲堂APP”](https://github.com/unetman/works/blob/master/courses/20210210001.md)  
 

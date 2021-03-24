@@ -16,11 +16,8 @@
 [2-读《汪洁：区块链与比特币》](https://github.com/unetman/works/blob/master/rd/btc/btc2.md)  
 [1-比特币白皮书中译版v1](https://github.com/unetman/works/blob/master/rd/btc/btc1.md)  
 
-### 英语
 
-### 健身
-
-### 触绪录
+### 触绪全录
 [20-读《戴尔·卡耐基：人性的弱点》](https://github.com/unetman/works/blob/master/reading_notes/rn8.md)  
 [19-读《阿德勒：自卑与超越》](https://github.com/unetman/works/blob/master/reading_notes/rn7.md)  
 [18-读《吕思勉：中国历史常识》](https://github.com/unetman/works/blob/master/reading_notes/rn6.md)  
@@ -42,7 +39,8 @@
 [2-读《瑞·达里欧：原则》](https://github.com/unetman/works/blob/master/reading_notes/54.md)  
 [1-读《文森特·鲁吉罗：超越感觉》](https://github.com/unetman/works/blob/master/reading_notes/40.md)  
 
-### 随笔
+### 心如泉涌
+[12-冷雨夜](https://github.com/unetman/works/blob/master/essays/20210324001.md)  
 [11-我们是如何与这个世界擦肩而过的](https://github.com/unetman/works/blob/master/essays/20210215001.md)  
 [10-时间密度，袖子和蓝图](https://github.com/unetman/works/blob/master/essays/20210208001.md)  
 [9-郁金香，君子兰，比特币](https://github.com/unetman/works/blob/master/essays/20210203001.md)  
@@ -75,9 +73,7 @@
 ### 国庆笔记
 [1-国庆笔记-2019](https://github.com/unetman/works/blob/master/essays/nd/nd2019.md)  
 
-### 致自己
-
-### 诗歌
+### 飘蓬泉集
 [16-斗室](https://github.com/unetman/works/blob/master/poems/po16.md)  
 [15-庚子年春出京偶得](https://github.com/unetman/works/blob/master/poems/po15.md)  
 [14-春](https://github.com/unetman/works/blob/master/poems/po14.md)  
@@ -95,7 +91,7 @@
 [2-段郎](https://github.com/unetman/works/blob/master/poems/po2.md)  
 [1-那一天](https://github.com/unetman/works/blob/master/poems/po1.md)  
 
-### 投资
+### 投资系列
 [2-[转载]笑来投资30讲视觉卡片](https://github.com/unetman/works/blob/master/investment/20210301001.md)  
 [1-“无痛变富”到底痛不痛？](https://github.com/unetman/works/blob/master/investment/20210228001.md)  
 

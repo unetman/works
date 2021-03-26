@@ -92,6 +92,7 @@
 [1-那一天](https://github.com/unetman/works/blob/master/poems/po1.md)  
 
 ### 投资系列
+[3-现代人的安全感，都是钱💰给的](https://github.com/unetman/works/blob/master/investment/20210327001.md)  
 [2-[转载]笑来投资30讲视觉卡片](https://github.com/unetman/works/blob/master/investment/20210301001.md)  
 [1-“无痛变富”到底痛不痛？](https://github.com/unetman/works/blob/master/investment/20210228001.md)  
 

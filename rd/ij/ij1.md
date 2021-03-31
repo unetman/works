@@ -122,7 +122,7 @@ Command + Option + B|Implementation(s)|★★
 Control + Shift + B|Type Declaration|★
 Command + U|Super Method
 Command + Shift + T|Test
-Command + F12|File Structure|★
+Command + F12|File Structure|★★★
 Control + H|Type Hierarchy|★
 Command + Shift + H|Method Hierarchy|★
 Option + Control + H|Call Hierarchy|★

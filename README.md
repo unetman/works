@@ -53,6 +53,8 @@
 [2021-04-11 共学《投资最重要的事》 Day28](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day28.md)  
 [2021-04-13 共学《投资最重要的事》复盘](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day29.md)  
 
+[2021-04-25 共学《投资最重要的事》笔记合集](https://github.com/unetman/works/blob/master/reading_notes/important_things/important_things_all.pdf?raw=true)  
+
 ### 触绪泉录
 [20-读《戴尔·卡耐基：人性的弱点》](https://github.com/unetman/works/blob/master/reading_notes/rn8.md)  
 [19-读《阿德勒：自卑与超越》](https://github.com/unetman/works/blob/master/reading_notes/rn7.md)  

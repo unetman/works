@@ -26,7 +26,7 @@
 [1-“无痛变富”到底痛不痛？](https://github.com/unetman/works/blob/master/investment/20210228001.md)  
 
 
-# 共学《投资最重要的事》
+### 共学《投资最重要的事》
 [2021-03-15 共学《投资最重要的事》 Day01](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day01.md)  
 [2021-03-16 共学《投资最重要的事》 Day02](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day02.md)  
 [2021-03-17 共学《投资最重要的事》 Day03](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day03.md)  

@@ -1,4 +1,10 @@
 # 共学《投资最重要的事》
+<div align=center>
+
+![刘心泉说](https://github.com/unetman/works/blob/master/resources/2021/20210425001.jpg?raw=true)  
+图片来自网络
+
+<div align=left>
 
 [2021-03-15 共学《投资最重要的事》 Day01](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day01.md)  
 [2021-03-16 共学《投资最重要的事》 Day02](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day02.md)  

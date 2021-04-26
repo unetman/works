@@ -20,7 +20,7 @@
 [2021-03-29 共学《投资最重要的事》 Day15](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day15.md)  
 [2021-03-30 共学《投资最重要的事》 Day16](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day16.md)  
 [2021-03-31 共学《投资最重要的事》 Day17](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day17.md)  
-[2020-04-01 共学《投资最重要的事》 Day18](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day18.md)  
+[2021-04-01 共学《投资最重要的事》 Day18](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day18.md)  
 [2021-04-02 共学《投资最重要的事》 Day19](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day19.md)  
 [2021-04-04 共学《投资最重要的事》 Day21](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day21.md)  
 [2021-04-05 共学《投资最重要的事》 Day22](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day22.md)  

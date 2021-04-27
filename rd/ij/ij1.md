@@ -123,9 +123,9 @@ Control + Shift + B|Type Declaration|★
 Command + U|Super Method
 Command + Shift + T|Test
 Command + F12|File Structure|★★★
-Control + H|Type Hierarchy|★
+Control + H|Type Hierarchy|★★★
 Command + Shift + H|Method Hierarchy|★
-Option + Control + H|Call Hierarchy|★
+Option + Control + H|Call Hierarchy|★★
 F2|Next Highlighted Error
 Shift + F2|Previous Highlighted Error
 Option + Control + Shift + Down|Next Change

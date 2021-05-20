@@ -48,6 +48,8 @@
 [2021-05-13 共学《周期》 Day19](https://github.com/unetman/works/blob/master/reading_notes/cycles/Day19.md)  
 [2021-05-14 共学《周期》 Day20](https://github.com/unetman/works/blob/master/reading_notes/cycles/Day20.md)  
 
+笔记合集 [pdf版](https://github.com/unetman/works/blob/master/reading_notes/cycles/cycles_all.pdf) | [md版](https://github.com/unetman/works/blob/master/reading_notes/cycles/cycles_all.md)
+
 ### 共学《投资最重要的事》
 [2021-03-15 共学《投资最重要的事》 Day01](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day01.md)  
 [2021-03-16 共学《投资最重要的事》 Day02](https://github.com/unetman/works/blob/master/reading_notes/important_things/Day02.md)  

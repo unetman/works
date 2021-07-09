@@ -39,6 +39,4 @@
 [2021-07-06 共学《反脆弱哦》 Day31](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day31-reaction.md)  
 [2021-07-07 共学《反脆弱哦》 Day32](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day32-summary.md)  
 
-
-
 笔记合集 [pdf版](https://github.com/unetman/works/blob/master/reading_notes/antifragile/antifragile_all.pdf) | [md版](https://github.com/unetman/works/blob/master/reading_notes/antifragile/antifragile_all.md)

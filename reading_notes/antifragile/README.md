@@ -21,7 +21,7 @@
 [2021-06-09 共学《反脆弱哦》 Day13](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day13.md)  
 [2021-06-10 共学《反脆弱哦》 Day14](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day14.md)  
 [2021-06-11 共学《反脆弱哦》 Day15](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day15.md)  
-[2021-06-14 共学《反脆弱哦》 Day16](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Da16.md)  
+[2021-06-14 共学《反脆弱哦》 Day16](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day16.md)  
 [2021-06-15 共学《反脆弱哦》 Day17](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day17.md)  
 [2021-06-16 共学《反脆弱哦》 Day18](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day18.md)  
 [2021-06-17 共学《反脆弱哦》 Day19](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day19.md)  
@@ -36,8 +36,8 @@
 [2021-06-30 共学《反脆弱哦》 Day28](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day28.md)  
 [2021-07-01 共学《反脆弱哦》 Day29](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day29.md)  
 [2021-07-02 共学《反脆弱哦》 Day30](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day30.md)  
-[2021-07-06 共学《反脆弱哦》 Day31](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day31.md)  
-[2021-07-07 共学《反脆弱哦》 Day32](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day32.md)  
+[2021-07-06 共学《反脆弱哦》 Day31](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day31-reaction.md)  
+[2021-07-07 共学《反脆弱哦》 Day32](https://github.com/unetman/works/blob/master/reading_notes/antifragile/Day32-summary.md)  
 
 
 

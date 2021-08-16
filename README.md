@@ -25,7 +25,7 @@
 [2-[转载]笑来投资30讲视觉卡片](https://github.com/unetman/works/blob/master/investment/20210301001.md)  
 [1-“无痛变富”到底痛不痛？](https://github.com/unetman/works/blob/master/investment/20210228001.md)  
 
-###共读《定投改变命运》
+### 共读《定投改变命运》
 [2021-07-12 共读《定投改变命运》 Day01](https://github.com/unetman/works/blob/master/reading_notes/regular_invest/Day01.md)  
 [2021-07-13 共读《定投改变命运》 Day02](https://github.com/unetman/works/blob/master/reading_notes/regular_invest/Day02.md)  
 [2021-07-14 共读《定投改变命运》 Day03](https://github.com/unetman/works/blob/master/reading_notes/regular_invest/Day03.md)  

@@ -5,6 +5,7 @@
 [读《保罗·威德：囚徒健身》](https://github.com/unetman/works/blob/master/reading_notes/141.md)  
 
 ### 心如泉涌
+[13-自律真的能带来自由吗？](https://github.com/unetman/works/blob/master/essays/20210827001.md)  
 [12-冷雨夜](https://github.com/unetman/works/blob/master/essays/20210324001.md)  
 [11-我们是如何与这个世界擦肩而过的](https://github.com/unetman/works/blob/master/essays/20210215001.md)  
 [10-时间密度，袖子和蓝图](https://github.com/unetman/works/blob/master/essays/20210208001.md)  

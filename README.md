@@ -21,6 +21,7 @@
 [0-刘心泉说发刊词](https://github.com/unetman/works/blob/master/files/11.md)
 
 ### 投资系列
+[5-两道有趣的数学题](https://github.com/unetman/works/blob/master/investment/20210902001.md)  
 [4-[转载]逻辑15讲视觉卡片](https://github.com/unetman/works/blob/master/investment/20210401001.md)  
 [3-现代人的安全感，都是钱💰给的](https://github.com/unetman/works/blob/master/investment/20210327001.md)  
 [2-[转载]笑来投资30讲视觉卡片](https://github.com/unetman/works/blob/master/investment/20210301001.md)  
